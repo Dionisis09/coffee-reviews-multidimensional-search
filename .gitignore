@@ -1,0 +1,12 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.cache_sigs_*.pkl
+bench_results_*.csv
+bench_results_*.png
+results_lsh.csv
+coffee_analysis.csv
+simplified_coffee.csv
+*.zip
+.DS_Store

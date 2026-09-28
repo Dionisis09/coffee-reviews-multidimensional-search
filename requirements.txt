@@ -1,0 +1,6 @@
+pandas
+numpy
+Unidecode
+scikit-learn
+matplotlib
+datasketch
